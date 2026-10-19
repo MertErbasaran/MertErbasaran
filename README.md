@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, ich bin Mert 👋
 
-<!--
-**MertErbasaran/MertErbasaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KI-Student (B.Sc. **Artificial Intelligence & Data Science**) an der Hochschule Aalen, aktuell im 4. Semester.
 
-Here are some ideas to get you started:
+Ich entwickle als Werkstudent einen KI-gestützten Förderfinder: Crawler sammeln Förderprogramme aus mehreren Quellen, eine hybride semantische Suche (Vektor- und Volltextsuche mit Reciprocal Rank Fusion) macht sie durchsuchbar. Davor habe ich Geschäftsprozesse mit der Microsoft Power Platform automatisiert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Gerade auf der Suche nach einem Praxissemester ab März 2027 im Bereich Data Science / KI.**
+
+## Tech-Stack
+
+**Sprachen:** Python · TypeScript · Java · C  
+**KI & Suche:** Embeddings · semantische Suche · Web-Crawling  
+**Web:** FastAPI · Vue 3  
+**Daten & Betrieb:** PostgreSQL · Podman  
+**Automatisierung:** Power Apps · Power Automate · SharePoint
+
+## Kontakt
+
+📧 Erbasaran2104@gmail.com
