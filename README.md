@@ -7,12 +7,6 @@
 - 🌱 Currently learning: **machine learning with scikit-learn**, **PyTorch** and **RAG systems**
 - 🔍 **Looking for an internship (Praxissemester) from March 2027 in Data Science / AI**
 
-## 🚀 Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**hybrid-search**](https://github.com/MertErbasaran/hybrid-search) | Search engine for 5,000+ scientific abstracts that combines BM25 and embeddings. Evaluated on the SciFact benchmark: hybrid beats both single methods (nDCG@10 0.715). | Python · SQLite FTS5 · sentence-transformers · FastAPI |
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
