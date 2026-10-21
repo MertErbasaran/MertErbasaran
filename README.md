@@ -5,7 +5,6 @@
 - 🔭 As a working student at a consulting firm, I'm building an **AI-powered funding finder**: crawlers collect funding programs from nine sources, and a hybrid semantic search (vector + full-text search with Reciprocal Rank Fusion) makes them searchable.
 - ⚙️ Before that, I automated business processes with the **Microsoft Power Platform**.
 - 🌱 Currently learning: **machine learning with scikit-learn**, **PyTorch** and **RAG systems**
-- 🔍 **Looking for an internship (Praxissemester) from March 2027 in Data Science / AI**
 
 ## 🛠️ Tech Stack
 
